@@ -13,3 +13,5 @@
 * Add networking/multiplayer. For help with bosses or to summon players to fight (Get their equipment).
 * Save game states.
 * Object Oriented Programming with PyGame. 
+* Need to decide between using mouse or arrow keys for attack. Maybe allow both in the settings. 
+* Need to setup the intro screen. Have some cool dark souls type musis (angelic almost).
