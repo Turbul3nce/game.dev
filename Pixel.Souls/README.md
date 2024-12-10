@@ -15,6 +15,6 @@
 * Object Oriented Programming with PyGame. 
 * Need to decide between using mouse or arrow keys for attack. Maybe allow both in the settings. 
 * Need to setup the intro screen. Have some cool dark souls type musis (angelic almost).
-* Broken sword and half shield to start. In guard (only last 3 seconds to start), player can block two hits.
+* Broken sword and half shield to start. In guard (only last 3 seconds to start), player can block two hits before shield fails.
 * Mouse to point and block (right click) or attack (left click).
 * First boss: Big hat, sitting crisscross against hige sword meditating. PLayer approches, a dialog bog pops up and come cool ass mideval line is delivered.
